@@ -1,0 +1,53 @@
+body {
+	background-repeat: no-repeat;
+	background-size:cover;
+	font: 15px Helvetica, serif;
+	color: indigo;
+}
+
+audio {
+		display:inline;
+}
+
+img {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.tooltip .tooltiptext {
+  width: 120px;
+  bottom: 100%;
+  left: 50%;
+  margin-left: 60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+
+#box1{
+
+}
+
+#door {
+	clear:both;
+	margin-right:auto;
+	margin-left:auto;
+	height:300px;
+
+}
+
+#rug {
+	clear:both;
+	margin-right:auto;
+	margin-left:auto;
+	height: 300px;
+}
+
+#contentbox{
+	text-align:center;
+}
+
+#room1 {
+	background-color: #F4AB00;
+}
+
+#room2{
+	background-color:#5b00bc;
+}
